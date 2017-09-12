@@ -28,7 +28,7 @@ tree -f
 
 ## 程序流程
 
-<div align=center><img src="http://oo8jzybo8.bkt.clouddn.com/TW%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B.png" width="350" height="650" alt="程序界面"/></div>
+<div align=center><img src="http://oo8jzybo8.bkt.clouddn.com/TW%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B.png" width="380" height=“500" alt="程序界面"/></div>
 
 ## 程序说明
 * 1.合法性检测
@@ -116,10 +116,10 @@ private:
 
 ## 测试用例结果
 * 测试用例一
-<div align=center><img src="http://oo8jzybo8.bkt.clouddn.com/Screen%20Shot%202017-09-11%20at%208.08.34%20PM.png" width="350" height="650" alt="程序界面"/></div>
+<div align=center><img src="http://oo8jzybo8.bkt.clouddn.com/Screen%20Shot%202017-09-11%20at%208.08.34%20PM.png" width="380" height=“500" alt="程序界面"/></div>
 
 
 
 * 测试用例二
-<div align=center><img src="http://oo8jzybo8.bkt.clouddn.com/Screen%20Shot%202017-09-11%20at%208.09.31%20PM.png" width="350" height="650" alt="程序界面"/></div>
+<div align=center><img src="http://oo8jzybo8.bkt.clouddn.com/Screen%20Shot%202017-09-11%20at%208.09.31%20PM.png" width="380" height="500" alt="程序界面"/></div>
 
