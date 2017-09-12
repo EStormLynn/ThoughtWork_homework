@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/ThoughtWork_homework.dir/main.cpp.o CMakeFiles/ThoughtWork_homework.dir/TWOrderManager.cpp.o CMakeFiles/ThoughtWork_homework.dir/TWIO.cpp.o  -o ThoughtWork_homework 
